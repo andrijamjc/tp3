@@ -1,4 +1,4 @@
-from test import Noeud
+from noeud import Noeud
 
 
 deux = Noeud(2) #question 4
